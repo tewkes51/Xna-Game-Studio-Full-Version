@@ -238,4 +238,4 @@ This repository serves as the official landing page for XNA Game Studio. The sof
 **Get the most recent version of XNA Game Studio today!**
 
 ---
-**Last updated:** 2026-11-07 04:38:28 UTC
+**Last updated:** 2026-11-07 11:29:51 UTC
